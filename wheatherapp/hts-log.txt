@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Aug 2023 21:00:39 at http://157.245.37.125:32340/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://157.245.37.125:32340/ -O1 "E:\SUBOS\Downloads\wheatherapp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:01:00	Error: 	"Not Found" (404) at link fonts.gstatic.com/ (from 157.245.37.125:32340/)
+21:02:34	Warning: 	Retry after error -4 (Incorrect length (2474515 Bytes, 3258009 expected)) at link 157.245.37.125:32340/static/weather.gif (from 157.245.37.125:32340/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 27 seconds : 15 links scanned, 10 files written (3788492 bytes overall) [3593581 bytes received at 24446 bytes/sec], 271089 bytes transferred using HTTP compression in 3 files, ratio 24%, 1.1 requests per connection
+(1 errors, 1 warnings, 0 messages)
